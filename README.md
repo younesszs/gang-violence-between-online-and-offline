@@ -3,7 +3,7 @@ This project explores the causal relationships and intensity of interactions bet
 
 - The code generates synthetic data to simulate these interactions, allowing users to customize key parameters such as the number of gangs and the time window of interest for studying these dynamics. 
 
-- A detailed analysis using real data from Chicago is presented in our published paper: \textbf{Measuring Online–Offline Spillover of Gang Violence Using Bivariate Hawkes Processes}.
+- A detailed analysis using real data from Chicago is presented in our published paper: "Measuring Online–Offline Spillover of Gang Violence Using Bivariate Hawkes Processes."
 https://link.springer.com/article/10.1007/s10940-024-09592-5.
 
 - The parameter estimation is done using the probabilistic softwar Stan, which can be installed very easily using pip or conda. 
