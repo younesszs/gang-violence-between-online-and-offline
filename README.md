@@ -1,5 +1,5 @@
 # Gang violence between online and offline
-This project explores the causal relationships and intensity of interactions between digital activity (e.g., social media platforms like Facebook) and real-world gang-related crimes. To model these dynamics, we use a bivariate Hawkes process, a type of point process that captures both the direction and magnitude of spillover effects between online and offline gang activities.
+This project explores the causal pathways and magnitude between digital activity (e.g., social media platforms like Facebook) and real-world gang-related crimes. To model these dynamics, we use a bivariate Hawkes process, a type of point process that captures both the direction and magnitude of spillover effects between online and offline gang activities.
 
 - The code generates synthetic data to simulate these interactions, allowing users to customize key parameters such as the number of gangs and the time window of interest for studying these dynamics. 
 
